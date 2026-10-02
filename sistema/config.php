@@ -3,7 +3,7 @@
 const DB_HOST = '127.0.0.1';
 const DB_PORT = 3308;
 const DB_USER = 'root';
-const DB_PASS = '123456';
+const DB_PASS = '';
 const DB_NAME = 'saep_db';
 const TEMPO_SESSAO = 900; // 15 minutos sem atividade.
 // Chave didática, compatível com os CPFs de exemplo do SQL.
